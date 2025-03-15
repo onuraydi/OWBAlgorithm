@@ -1,0 +1,11 @@
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.AssemblyInfo.cs
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\bin\Debug\net9.0\OWBAlgorithm.deps.json
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\bin\Debug\net9.0\OWBAlgorithm.dll
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\bin\Debug\net9.0\OWBAlgorithm.pdb
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.dll
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\refint\OWBAlgorithm.dll
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\OWBAlgorithm.pdb
+C:\Users\ONUR\Desktop\CurrentProjects\OWBAlgorithm\OWBAlgorithm\obj\Debug\net9.0\ref\OWBAlgorithm.dll
